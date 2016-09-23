@@ -6,7 +6,7 @@
 * spring에서 제공해주는 internationalization 활용
 * 참고
   * [mkyong example](https://www.mkyong.com/spring-mvc/spring-mvc-internationalization-example/)
-  * [/Spring-Locale-처리](http://devbox.tistory.com/entry/Spring-Locale-%EC%B2%98%EB%A6%AC
+  * [/Spring-Locale-처리](http://devbox.tistory.com/entry/Spring-Locale-%EC%B2%98%EB%A6%AC)
   * [egov](http://www.egovframe.go.kr/wiki/doku.php?id=egovframework:rte:ptl:internationalization)
 
 ### 프론트엔드
